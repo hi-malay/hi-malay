@@ -21,7 +21,7 @@
 - 👋 Hi, I’m Malay
 - 💼 Fullstack Engineer at Plivo
 - 🔧 Passionate UI Engineer specializing in JS, TS, and CSS
-- 💻 Check out [my portfolio](https://hi-malay.github.io/Portfolio/)
+- 💻 Check out [My Portfolio](https://hi-malay.github.io/Portfolio/)
 - 📝 I write about JS, TS, React, CSS, and other web technologies
 - 💞️ Always open to collaboration on exciting projects
 - 📫 Reach me at @hi-malay or just Google "Malay Mishra"
@@ -44,3 +44,12 @@ I love to code and bring the web to life. Over the years, I've delivered project
 ### Portfolio
 - My name is Malay Mishra, and my GitHub ID is [@hi-malay](https://github.com/hi-malay)
 - Check out my [portfolio](https://hi-malay.github.io/Portfolio/)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile/assets/SnakeGameDark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="profile/assets/SnakeGame.svg" />
+    <img alt="Github Contribution Snake Game" src="profile/assets/SnakeGame.svg" />
+  </picture>
+</p>
+
