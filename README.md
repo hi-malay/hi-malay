@@ -18,8 +18,8 @@
 
 ### About Me
 
-- 👋 Hi, I’m @hi-malay
-- 💼 Frontend Engineer at Plivo
+- 👋 Hi, I’m Malay
+- 💼 Fullstack Engineer at Plivo
 - 🔧 Passionate UI Engineer specializing in JS, TS, and CSS
 - 💻 Check out [my portfolio](https://hi-malay.github.io/Portfolio/)
 - 📝 I write about JS, TS, React, CSS, and other web technologies
