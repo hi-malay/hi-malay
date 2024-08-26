@@ -20,7 +20,7 @@
 
 - 👋 Hi, I’m Malay
 - 💼 Fullstack Engineer at Plivo
-- 🔧 Passionate UI Engineer specializing in JS, TS, and CSS
+- 🔧 Passionate Software Engineer specializing in JS, TS, CSS, and Python 
 - 💻 Check out [My Portfolio](https://hi-malay.github.io/Portfolio/)
 - 📝 I write about JS, TS, React, CSS, and other web technologies
 - 💞️ Always open to collaboration on exciting projects
