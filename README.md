@@ -1,4 +1,4 @@
-# [Malay Mishra](https://hi-malay.github.io/Portfolio/)
+# [Malay Mishra](https://malaymishra.com/)
 
 
 <div align="center">
