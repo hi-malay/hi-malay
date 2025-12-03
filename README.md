@@ -21,7 +21,7 @@
 - 👋 Hi, I’m Malay
 - 💼 Fullstack Engineer at Plivo
 - 🔧 Passionate Software Engineer specializing in JS, TS, CSS, and Python 
-- 💻 Check out [My Portfolio](https://portfolio-42g9.vercel.app/)
+- 💻 Check out [My Portfolio](https://malaymishra.com/)
 - 📝 I write about JS, TS, React, CSS, and other web technologies
 - 💞️ Always open to collaboration on exciting projects
 - 📫 Reach me at @hi-malay or just Google "Malay Mishra"
