@@ -69,8 +69,6 @@ A dedicated **Fullstack Engineer** with ~4 years of experience building scalable
 
 ---
 
-## 🐍 GitHub Activity
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="profile/assets/SnakeGameDark.svg" />
