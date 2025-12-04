@@ -19,12 +19,12 @@
 ### About Me
 
 - 👋 Hi, I’m Malay
-- 💼 Fullstack Engineer at Plivo
+- 💼 Engineer at Adeptmind
 - 🔧 Passionate Software Engineer specializing in JS, TS, CSS, and Python 
 - 💻 Check out [My Portfolio](https://malaymishra.com/)
-- 📝 I write about JS, TS, React, CSS, and other web technologies
+- 📝 I write about JS, TS, React, GO, Python, CSS, and other technologies
 - 💞️ Always open to collaboration on exciting projects
-- 📫 Reach me at @hi-malay or just Google "Malay Mishra"
+- 📫 Reach me at [Info](https://www.malaymishra.com/#contact) or just Google "Malay Mishra"
 
 ---
 
@@ -35,15 +35,11 @@ I love to code and bring the web to life. Over the years, I've delivered project
 
 ❤️❤️❤️
 
-
-## Coding Activity (Past 30 Days)
-<a href="https://wakatime.com"><img height="400px" width="100%" src="https://wakatime.com/share/@c2883fa9-c937-4e8e-8956-e5b47d6dbf96/f22c94eb-56ce-447f-948d-8b894635d213.png" /></a>
-
 ---
 
 ### Portfolio
 - My name is Malay Mishra, and my GitHub ID is [@hi-malay](https://github.com/hi-malay)
-- Check out my [portfolio](https://hi-malay.github.io/Portfolio/)
+- Check out my [portfolio](https://www.malaymishra.com/)
 
 <p align="center">
   <picture>
