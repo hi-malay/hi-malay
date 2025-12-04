@@ -1,10 +1,12 @@
 # [Malay Mishra](https://malaymishra.com/)
 
-
-<div align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-malay&theme=radical&layout=compact" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=hi-malay&hide=contribs,stars&theme=radical&show_icons=true"/> 
-</div>
+<br><br>
+<p align="center">
+  <a href="https://ritik.me">
+    <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=650&lines=Hello+There+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Malay+Mishra](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,+I%27m+Ritik+Srivastava!&fontSize=40)">
+  </a>
+</p>
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
