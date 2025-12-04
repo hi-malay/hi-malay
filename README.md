@@ -3,7 +3,7 @@
 <br><br>
 <p align="center">
   <a href="https://malaymishra.com/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,+I%27m+Malay+Mishra!&fontSize=40">
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=230&text=Malay%20Mishra&fontSize=45&animation=fadeIn">
   </a>
 </p>
 <br>
