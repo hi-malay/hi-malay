@@ -14,7 +14,7 @@
 - 💼 Currently building AI-powered discovery systems at **Adeptmind**  
 - ⚙️ Love designing scalable systems & high-performance APIs  
 - 🎨 Also enjoy building smooth UI/UX with animations & micro-interactions  
-- 🌐 Portfolio → https://malaymishra.com/  
+- 🌐 Portfolio or Write Malay Mishra on google → https://malaymishra.com/  
 - ✍️ I write about JS, TS, React, Go, Python & engineering concepts  
 - 🤝 Open to collaboration on interesting full-stack or system-design projects  
 
