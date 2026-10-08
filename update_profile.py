@@ -1,4 +1,4 @@
-"""Regenerate dark_mode.svg / light_mode.svg with live GitHub stats.
+"""Regenerate dark_mode.svg with live GitHub stats.
 
 Runs daily via GitHub Actions. Stdlib only, no dependencies.
 """
@@ -10,7 +10,7 @@ import urllib.request
 from datetime import date, datetime, timezone
 
 USER = "hi-malay"
-BIRTHDAY = date(2000, 1, 1)  # TODO set real DOB
+SINCE = date(2020, 2, 7)  # GitHub join date; swap for your DOB to make Uptime your age
 JOINED_YEAR = 2020  # account creation year, never changes
 W = 56  # info column width in characters
 
@@ -157,8 +157,6 @@ def loc(repo_names, user_id):
 PALETTES = {
     "dark": {"bg": "#0d1117", "border": "#30363d", "art": "#8b949e", "h": "#58a6ff",
              "k": "#ffa657", "v": "#c9d1d9", "d": "#484f58", "g": "#3fb950", "r": "#f85149"},
-    "light": {"bg": "#ffffff", "border": "#d0d7de", "art": "#57606a", "h": "#0969da",
-              "k": "#953800", "v": "#24292f", "d": "#afb8c1", "g": "#1a7f37", "r": "#cf222e"},
 }
 
 
@@ -178,7 +176,7 @@ def rule(title=""):
 
 
 def info_lines(s):
-    y, m, d = age(BIRTHDAY, date.today())
+    y, m, d = age(SINCE, date.today())
     n = lambda x: f"{x:,}"
     return [
         [(f"{USER.lower()}@github ", "h"), ("─" * (W - len(USER) - 8), "d")],
@@ -239,4 +237,4 @@ if __name__ == "__main__":
     for mode in PALETTES:
         with open(f"{mode}_mode.svg", "w", encoding="utf-8") as f:
             f.write(render(mode, stats))
-    print("wrote dark_mode.svg, light_mode.svg")
+    print("wrote dark_mode.svg")
