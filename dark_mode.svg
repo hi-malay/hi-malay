@@ -1,36 +1,50 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="500" viewBox="0 0 840 500" font-family="Consolas, Menlo, monospace" font-size="13px">
 <rect x="0.5" y="0.5" width="839" height="499" rx="10" fill="#0d1117" stroke="#30363d"/>
-<text x="25" y="40" fill="#8b949e" xml:space="preserve">                     ++++++</text>
-<text x="25" y="55" fill="#8b949e" xml:space="preserve">                  +*#######*+</text>
-<text x="25" y="70" fill="#8b949e" xml:space="preserve">                 **%%%%%##%#*++</text>
-<text x="25" y="85" fill="#8b949e" xml:space="preserve">                ##%%%#########*+</text>
-<text x="25" y="100" fill="#8b949e" xml:space="preserve">               #%@%*=-+:-*%%###*</text>
-<text x="25" y="115" fill="#8b949e" xml:space="preserve">                %#-::.....-*%##*</text>
-<text x="25" y="130" fill="#8b949e" xml:space="preserve">                %--+++:.-=:..*#</text>
-<text x="25" y="145" fill="#8b949e" xml:space="preserve">             #@+=:.......:...=</text>
-<text x="25" y="160" fill="#8b949e" xml:space="preserve">             #@#:=.::-:......</text>
-<text x="25" y="175" fill="#8b949e" xml:space="preserve">             %%%%#==*+=:-=-.+#</text>
-<text x="25" y="190" fill="#8b949e" xml:space="preserve">           ##%%%%@*:.:....:+%#**##*</text>
-<text x="25" y="205" fill="#8b949e" xml:space="preserve">        *##%%%%@%@@%+--::-=@@#%%###*+</text>
-<text x="25" y="220" fill="#8b949e" xml:space="preserve">       *###%%%%@@@@@@@#+=-*@%%%%%%%#*+</text>
-<text x="25" y="235" fill="#8b949e" xml:space="preserve">      *####%%%%%@@@@%%*==*@%%%%%%%%##*</text>
-<text x="25" y="250" fill="#8b949e" xml:space="preserve">     ###%%%%%%%%%@@@%%%#%@%%%%%%%%%%#**</text>
-<text x="25" y="265" fill="#8b949e" xml:space="preserve">     ###%%%%%%%%%@@@%@@@@@@%%@@@%%%%###</text>
-<text x="25" y="280" fill="#8b949e" xml:space="preserve">    ##%%%%%%%@%@@@%%@@@@@@%%%@@@%%%%#**</text>
-<text x="25" y="295" fill="#8b949e" xml:space="preserve">    ###%%%%%%@%@@@@@%@@@@%%%@@@%%#%%%#*</text>
-<text x="25" y="310" fill="#8b949e" xml:space="preserve">   ##%%%%%%%%@@@@%@@%%%@@%@@@@@@@%%####</text>
-<text x="25" y="325" fill="#8b949e" xml:space="preserve">   ##%%%%%%%%%%%%%%%%@%%%%%%%%%%%%%%##</text>
-<text x="25" y="340" fill="#8b949e" xml:space="preserve">   ##%%%%%%%%%%@@%%%%%%%%%%%%%%%%%%%##</text>
-<text x="25" y="355" fill="#8b949e" xml:space="preserve">   ##%%%%%%%%#%%%%%@@%%%%%%%%%%%%%%%#</text>
-<text x="25" y="370" fill="#8b949e" xml:space="preserve">   #%%%%%%%%%%%%##%%%%%@@@@@%@@@@%%%+..</text>
-<text x="25" y="385" fill="#8b949e" xml:space="preserve">   %%%%%%%%%%%%%%%%%%%%@@@@@@@%%%%%+.:-..</text>
-<text x="25" y="400" fill="#8b949e" xml:space="preserve">   %%%@@@@@@@@@@@@@@%%%**+=--..:::-::.-=:</text>
-<text x="25" y="415" fill="#8b949e" xml:space="preserve">     *++*#%%%####***+=-:::::-=++++++*:.=</text>
-<text x="25" y="430" fill="#8b949e" xml:space="preserve">      ::%@@@@@@@@@@@@@@@@@@@@@@%%#+==:</text>
-<text x="25" y="445" fill="#8b949e" xml:space="preserve">      -:**####*****+++========+++-:+--</text>
-<text x="25" y="460" fill="#8b949e" xml:space="preserve">      =:=**#%%%%######%%%@@@@@%#+:-+-</text>
-<text x="25" y="475" fill="#8b949e" xml:space="preserve">      =:-+=+**#%%@@@@@%####*+=:...:--</text>
-<text x="25" y="490" fill="#8b949e" xml:space="preserve">      =-:::--------==-........::::==</text>
+<text x="25" y="36.0" font-size="10px" fill="#8b949e" xml:space="preserve">                       ▒▒░▒▒▒▒░▒░▒▒</text>
+<text x="25" y="45.6" font-size="10px" fill="#8b949e" xml:space="preserve">                     ▒▒░░░░░ ░░░░░░▒</text>
+<text x="25" y="55.2" font-size="10px" fill="#8b949e" xml:space="preserve">                    ▒░░░░ ░ ░░ ░  ░░▒▒</text>
+<text x="25" y="64.8" font-size="10px" fill="#8b949e" xml:space="preserve">                   ░░░  ░  ░ ░░░░░░░░▒▒▒</text>
+<text x="25" y="74.4" font-size="10px" fill="#8b949e" xml:space="preserve">                 ░░░░ ░  ░ ░░ ░░░░░░░░░▒▒</text>
+<text x="25" y="84.0" font-size="10px" fill="#8b949e" xml:space="preserve">                 ░░ ░░ ░░░░░░░░░ ░░░░░░░▒▒</text>
+<text x="25" y="93.6" font-size="10px" fill="#8b949e" xml:space="preserve">                ░░ ░  ░▒▒▓▒░▓▓░░░ ░░░░░░░▒</text>
+<text x="25" y="103.2" font-size="10px" fill="#8b949e" xml:space="preserve">                 ░  ░▒▒▒▓▓▓▒▓█▓▒░░ ░ ░░░░</text>
+<text x="25" y="112.8" font-size="10px" fill="#8b949e" xml:space="preserve">                 ░ ░▒▓▓████▓▓▓██▓▒░ ░░░░▒</text>
+<text x="25" y="122.39999999999999" font-size="10px" fill="#8b949e" xml:space="preserve">                 ░ ▒▓▓▒▒▒▒█████▓▓█▓▒▒░ ░</text>
+<text x="25" y="132.0" font-size="10px" fill="#8b949e" xml:space="preserve">                  ░▓▓▒▒▒▒░▒▓█▓░▒▓▓███░░</text>
+<text x="25" y="141.6" font-size="10px" fill="#8b949e" xml:space="preserve">               ░▒▒░▓█▓▒▒▓▓▓██▓▓▒▒▓▓██▒</text>
+<text x="25" y="151.2" font-size="10px" fill="#8b949e" xml:space="preserve">             ░░ ░▓▒▓█████████████████▒</text>
+<text x="25" y="160.8" font-size="10px" fill="#8b949e" xml:space="preserve">            ░░   █▓▓▓███▓▓█████▓████▓</text>
+<text x="25" y="170.4" font-size="10px" fill="#8b949e" xml:space="preserve">            ░░   ▓▒▒▒▓░▒▓░░▒▓▒█▓▒███▓</text>
+<text x="25" y="180.0" font-size="10px" fill="#8b949e" xml:space="preserve">              ░░   ░▒▒▒░░▒▒▒▓▓▒▒▒▓▓▓░░</text>
+<text x="25" y="189.6" font-size="10px" fill="#8b949e" xml:space="preserve">            ░░  ░  ░░▓▓▓▒▓████▓▓▓▓▓▒ ░▒▒</text>
+<text x="25" y="199.2" font-size="10px" fill="#8b949e" xml:space="preserve">         ░░░░ ░  ░  ░░▓█▓▓▒▓▓▓███▓▒ ░░░░░░░░░▒</text>
+<text x="25" y="208.79999999999998" font-size="10px" fill="#8b949e" xml:space="preserve">       ░░░ ░░░  ░ ░   ░▒███▓███▓▓▒  ░░░ ░░░░░▒░▒▒</text>
+<text x="25" y="218.4" font-size="10px" fill="#8b949e" xml:space="preserve">     ▒░░░░░ ░ ░         ░░▒▒▓▒▒▒▒░   ░ ░░ ░░░░░░▒▒</text>
+<text x="25" y="228.0" font-size="10px" fill="#8b949e" xml:space="preserve">    ░░░░░░ ░ ░ ░  ░ ░ ░   ░ ░▒▒▓▓░  ░ ░ ░░ ░ ░░░░▒</text>
+<text x="25" y="237.6" font-size="10px" fill="#8b949e" xml:space="preserve">   ░▒░░░░ ░░ ░ ░        ░ ░▓▓▓▓▓░   ░ ░  ░░ ░░ ░░▒▒</text>
+<text x="25" y="247.2" font-size="10px" fill="#8b949e" xml:space="preserve">  ▒░░░░ ░░░ ░ ░ ░ ░  ░  ░ ░▒▒▒▒▒  ░░ ░ ░ ░ ░ ░░░░░░</text>
+<text x="25" y="256.79999999999995" font-size="10px" fill="#8b949e" xml:space="preserve">  ░░░ ░░ ░ ░ ░ ░ ░     ░ ░░░▒▒░  ░    ░  ░ ░ ░░░░░▒</text>
+<text x="25" y="266.4" font-size="10px" fill="#8b949e" xml:space="preserve">  ░░░░ ░ ░ ░   ░   ░              ░ ░  ░  ░ ░ ░ ░░░</text>
+<text x="25" y="276.0" font-size="10px" fill="#8b949e" xml:space="preserve"> ░░░ ░░ ░ ░ ░ ░ ░ ░    ░   ░  ░   ░ ░   ░  ░ ░░░░░░</text>
+<text x="25" y="285.6" font-size="10px" fill="#8b949e" xml:space="preserve"> ░░░░ ░░ ░ ░ ░      ░  ░         ░ ░  ░   ░ ░ ░ ░░░</text>
+<text x="25" y="295.2" font-size="10px" fill="#8b949e" xml:space="preserve">░░░ ░░  ░ ░ ░  ░ ░   ░   ░        ░ ░    ░  ░ ░░░░░</text>
+<text x="25" y="304.8" font-size="10px" fill="#8b949e" xml:space="preserve">░░░ ░░░░ ░ ░      ░   ░         ░ ░     ░ ░ ░░ ░░░▒</text>
+<text x="25" y="314.4" font-size="10px" fill="#8b949e" xml:space="preserve">░░░░ ░ ░░░ ░  ░ ░      ░      ░ ░        ░░░ ░░ ░░░</text>
+<text x="25" y="324.0" font-size="10px" fill="#8b949e" xml:space="preserve">░  ░░░ ░ ░ ░       ░   ░ ░░ ░     ░    ░  ░░░ ░░ ░░</text>
+<text x="25" y="333.59999999999997" font-size="10px" fill="#8b949e" xml:space="preserve">░░░  ░░░ ░░ ░  ░        ░     ░              ░░░░░░</text>
+<text x="25" y="343.2" font-size="10px" fill="#8b949e" xml:space="preserve"> ░ ░░  ░░ ░░ ░   ░ ░░░░   ░ ░  ░░  ░ ░ ░ ░ ░  ░░░░░</text>
+<text x="25" y="352.8" font-size="10px" fill="#8b949e" xml:space="preserve">░░░ ░ ░  ░  ░ ░░ ░ ░ ░ ░   ░░░░ ░░░ ░░ ░░  ░░ ░ ░░</text>
+<text x="25" y="362.4" font-size="10px" fill="#8b949e" xml:space="preserve">░ ░░ ░ ░░ ░░    ░   ░ ░ ░░ ░ ░ ░  ░ ░ ░  ░░  ░░░░░</text>
+<text x="25" y="372.0" font-size="10px" fill="#8b949e" xml:space="preserve">░░ ░ ░ ░ ░░ ░░░    ░  ░  ░  ░ ░░░ ░ ░ ░ ░ ░ ░ ░ ░░</text>
+<text x="25" y="381.59999999999997" font-size="10px" fill="#8b949e" xml:space="preserve">░ ░ ░ ░ ░░ ░░ ░░░ ░    ░  ░ ░   ░ ░ ░ ░ ░  ░ ░░░░</text>
+<text x="25" y="391.2" font-size="10px" fill="#8b949e" xml:space="preserve">░░ ░ ░░ ░ ░ ░ ░ ░░░░░░       ░ ░ ░ ░ ░ ░ ░ ░ ░ ░░▓▓</text>
+<text x="25" y="400.8" font-size="10px" fill="#8b949e" xml:space="preserve"> ░░ ░ ░ ░ ░ ░░ ░░ ░ ░░░░░ ░░          ░   ░ ░ ░ ▓███▓</text>
+<text x="25" y="410.4" font-size="10px" fill="#8b949e" xml:space="preserve">░ ░░ ░ ░  ░ ░ ░ ░ ░░     ░ ░                  ░▒██▓██▓</text>
+<text x="25" y="420.0" font-size="10px" fill="#8b949e" xml:space="preserve"> ░  ░   ░ ░ ░ ░ ░  ░ ░ ░ ░ ░ ░        ░░░░░░░░▒█▓░ ▒██</text>
+<text x="25" y="429.59999999999997" font-size="10px" fill="#8b949e" xml:space="preserve">  ░   ░      ░   ░   ░ ░      ░░░░░░▒▓▓▓▓▓▒▓▓▒▓▓▓█░ ▒█▓</text>
+<text x="25" y="439.2" font-size="10px" fill="#8b949e" xml:space="preserve">░  ░    ░ ░    ░   ░    ░░░░▒▒▒▓▓▓▓▓▓▓▒▒░░░░   ░░█▓▒ ▒▒</text>
+<text x="25" y="448.8" font-size="10px" fill="#8b949e" xml:space="preserve">   ░░░░░ ░ ░░░░░░░░░░░▒▒░▒▒▒▒▒▒▒▒▒▒▒▒▒░░       ░░▓▓▒▓▒▒</text>
+<text x="25" y="458.4" font-size="10px" fill="#8b949e" xml:space="preserve">     ░▒░                                       ░▒▓▒ ▒▒░</text>
 <text x="390" y="45" xml:space="preserve"><tspan fill="#58a6ff">hi-malay@github </tspan><tspan fill="#484f58">────────────────────────────────────────</tspan></text>
 <text x="390" y="87" xml:space="preserve"><tspan fill="#ffa657">OS: </tspan><tspan fill="#484f58">.............................................. </tspan><tspan fill="#c9d1d9">macOS</tspan></text>
 <text x="390" y="108" xml:space="preserve"><tspan fill="#ffa657">Uptime: </tspan><tspan fill="#484f58">...................... </tspan><tspan fill="#c9d1d9">6 years, 8 months, 1 days</tspan></text>
@@ -46,6 +60,6 @@
 <text x="390" y="360" xml:space="preserve"><tspan fill="#ffa657">Portfolio: </tspan><tspan fill="#484f58">............................. </tspan><tspan fill="#c9d1d9">malaymishra.com</tspan></text>
 <text x="390" y="402" xml:space="preserve"><tspan fill="#58a6ff">─ GitHub Stats </tspan><tspan fill="#484f58">─────────────────────────────────────────</tspan></text>
 <text x="390" y="423" xml:space="preserve"><tspan fill="#ffa657">Repos: </tspan><tspan fill="#484f58">... </tspan><tspan fill="#c9d1d9">46 {Contributed: 8}</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Stars: </tspan><tspan fill="#484f58">.............. </tspan><tspan fill="#c9d1d9">2</tspan></text>
-<text x="390" y="444" xml:space="preserve"><tspan fill="#ffa657">Commits: </tspan><tspan fill="#484f58">............... </tspan><tspan fill="#c9d1d9">3,552</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Followers: </tspan><tspan fill="#484f58">.......... </tspan><tspan fill="#c9d1d9">2</tspan></text>
-<text x="390" y="465" xml:space="preserve"><tspan fill="#ffa657">Lines of Code: </tspan><tspan fill="#c9d1d9">1,505,715</tspan><tspan fill="#484f58"> ( </tspan><tspan fill="#3fb950">1,729,431++</tspan><tspan fill="#484f58">, </tspan><tspan fill="#f85149">223,716--</tspan><tspan fill="#484f58"> )</tspan></text>
+<text x="390" y="444" xml:space="preserve"><tspan fill="#ffa657">Commits: </tspan><tspan fill="#484f58">............... </tspan><tspan fill="#c9d1d9">3,553</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Followers: </tspan><tspan fill="#484f58">.......... </tspan><tspan fill="#c9d1d9">2</tspan></text>
+<text x="390" y="465" xml:space="preserve"><tspan fill="#ffa657">Lines of Code: </tspan><tspan fill="#c9d1d9">1,505,804</tspan><tspan fill="#484f58"> ( </tspan><tspan fill="#3fb950">1,729,520++</tspan><tspan fill="#484f58">, </tspan><tspan fill="#f85149">223,716--</tspan><tspan fill="#484f58"> )</tspan></text>
 </svg>
