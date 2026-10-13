@@ -1,4 +1,4 @@
-"""Regenerate dark_mode.svg with live GitHub stats.
+"""Regenerate dark_mode.svg / light_mode.svg with live GitHub stats.
 
 Runs daily via GitHub Actions. Stdlib only, no dependencies.
 """
@@ -15,7 +15,8 @@ JOINED_YEAR = 2020  # account creation year, never changes
 W = 56  # info column width in characters
 ART_FONT, ART_STEP = 10, 9.6  # art: glyphs slightly taller than the step so shade blocks tile seamlessly
 
-ART = r"""
+ART = {
+    "dark": r"""
 
                        ▒▒░▒▒▒▒░▒░▒▒
                      ▒▒░░░░░ ░░░░░░▒
@@ -62,7 +63,56 @@ ART = r"""
 ░  ░    ░ ░    ░   ░    ░░░░▒▒▒▓▓▓▓▓▓▓▒▒░░░░   ░░█▓▒ ▒▒
    ░░░░░ ░ ░░░░░░░░░░░▒▒░▒▒▒▒▒▒▒▒▒▒▒▒▒░░       ░░▓▓▒▓▒▒
      ░▒░                                       ░▒▓▒ ▒▒░
-"""
+""",
+    "light": r"""
+
+                       ▒▒▓▒▒▒▒▓▒▓▒▒
+                     ▒▒▓▓▓▓▓█▓▓▓▓▓▓▒
+                    ▒▓▓▓▓█▓█▓▓█▓██▓▓▒▒
+                   ▓▓▓██▓██▓█▓▓▓▓▓▓▓▓▒▒▒
+                 ▓▓▓▓█▓██▓█▓▓█▓▓▓▓▓▓▓▓▓▒▒
+                 ▓▓█▓▓█▓▓▓▓▓▓▓▓▓█▓▓▓▓▓▓▓▒▒
+                ▓▓█▓██▓▒▒░▒▓░░▓▓▓█▓▓▓▓▓▓▓▒
+                 ▓██▓▒▒▒░░░▒░ ░▒▓▓█▓█▓▓▓▓
+                 ▓█▓▒░░    ░░░  ░▒▓█▓▓▓▓▒
+                 ▓█▒░░▒▒▒▒     ░░ ░▒▒▓█▓
+                  ▓░░▒▒▒▒▓▒░ ░▓▒░░   ▓▓
+               ▓▒▒▓░ ░▒▒░░░  ░░▒▒░░  ▒
+             ▓▓█▓░▒░                 ▒
+            ▓▓███ ░░░   ░░     ░    ░
+            ▓▓███░▒▒▒░▓▒░▓▓▒░▒ ░▒   ░
+             █▓▓███▓▒▒▒▓▓▒▒▒░░▒▒▒░░░▓▓
+            ▓▓██▓██▓▓░░░▒░    ░░░░░▒█▓▒▒
+         ▓▓▓▓█▓██▓██▓▓░ ░░▒░░░   ░▒█▓▓▓▓▓▓▓▓▓▒
+       ▓▓▓█▓▓▓██▓█▓███▓▒   ░   ░░▒██▓▓▓█▓▓▓▓▓▒▓▒▒
+     ▒▓▓▓▓▓█▓█▓█████████▓▓▒▒░▒▒▒▒▓███▓█▓▓█▓▓▓▓▓▓▒▒
+    ▓▓▓▓▓▓█▓█▓█▓██▓█▓█▓███▓█▓▒▒░░▓██▓█▓█▓▓█▓█▓▓▓▓▒
+   ▓▒▓▓▓▓█▓▓█▓█▓████████▓█▓░░░░░▓███▓█▓██▓▓█▓▓█▓▓▒▒
+  ▒▓▓▓▓█▓▓▓█▓█▓█▓█▓██▓██▓█▓▒▒▒▒▒██▓▓█▓█▓█▓█▓█▓▓▓▓▓▓
+  ▓▓▓█▓▓█▓█▓█▓█▓█▓█████▓█▓▓▓▒▒▓██▓████▓██▓█▓█▓▓▓▓▓▒
+  ▓▓▓▓█▓█▓█▓███▓███▓██████████████▓█▓██▓██▓█▓█▓█▓▓▓
+ ▓▓▓█▓▓█▓█▓█▓█▓█▓█▓████▓███▓██▓███▓█▓███▓██▓█▓▓▓▓▓▓
+ ▓▓▓▓█▓▓█▓█▓█▓██████▓██▓█████████▓█▓██▓███▓█▓█▓█▓▓▓
+▓▓▓█▓▓██▓█▓█▓██▓█▓███▓███▓████████▓█▓████▓██▓█▓▓▓▓▓
+▓▓▓█▓▓▓▓█▓█▓██████▓███▓█████████▓█▓█████▓█▓█▓▓█▓▓▓▒
+▓▓▓▓█▓█▓▓▓█▓██▓█▓██████▓██████▓█▓████████▓▓▓█▓▓█▓▓▓
+▓██▓▓▓█▓█▓█▓███████▓███▓█▓▓█▓█████▓████▓██▓▓▓█▓▓█▓▓
+▓▓▓██▓▓▓█▓▓█▓██▓████████▓█████▓██████████████▓▓▓▓▓▓
+█▓█▓▓██▓▓█▓▓█▓███▓█▓▓▓▓███▓█▓██▓▓██▓█▓█▓█▓█▓██▓▓▓▓▓
+▓▓▓█▓█▓██▓██▓█▓▓█▓█▓█▓█▓███▓▓▓▓█▓▓▓█▓▓█▓▓██▓▓█▓█▓▓
+▓█▓▓█▓█▓▓█▓▓████▓███▓█▓█▓▓█▓█▓█▓██▓█▓█▓██▓▓██▓▓▓▓▓
+▓▓█▓█▓█▓█▓▓█▓▓▓████▓██▓██▓██▓█▓▓▓█▓█▓█▓█▓█▓█▓█▓█▓▓
+▓█▓█▓█▓█▓▓█▓▓█▓▓▓█▓████▓██▓█▓███▓█▓█▓█▓█▓██▓█▓▓▓▓
+▓▓█▓█▓▓█▓█▓█▓█▓█▓▓▓▓▓▓███████▓█▓█▓█▓█▓█▓█▓█▓█▓█▓▓░░
+█▓▓█▓█▓█▓█▓█▓▓█▓▓█▓█▓▓▓▓▓█▓▓██████████▓███▓█▓█▓█░   ░
+▓█▓▓█▓█▓██▓█▓█▓█▓█▓▓█████▓█▓██████████████████▓▒  ░  ░
+█▓██▓███▓█▓█▓█▓█▓██▓█▓█▓█▓█▓█▓████████▓▓▓▓▓▓▓▓▒ ░▓ ▒
+██▓███▓██████▓███▓███▓█▓██████▓▓▓▓▓▓▒░░░░░▒░░▒░░░ ▓ ▒ ░
+▓██▓████▓█▓████▓███▓████▓▓▓▓▒▒▒░░░░░░░▒▒▓▓▓▓   ▓▓ ░▒ ▒▒
+   ▓▓▓▓▓█▓█▓▓▓▓▓▓▓▓▓▓▓▒▒▓▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓       ▓▓░░▒░▒▒
+     ▓▒▓                                      █▓▒░▒ ▒▒▓
+""",
+}
 
 # two tokens by design: the Actions GITHUB_TOKEN yields the contribution-style
 # commit count (public + private activity), while a PAT (ACCESS_TOKEN secret)
@@ -173,6 +223,8 @@ def loc(repo_names, user_id):
 PALETTES = {
     "dark": {"bg": "#0d1117", "border": "#30363d", "art": "#8b949e", "h": "#58a6ff",
              "k": "#ffa657", "v": "#c9d1d9", "d": "#484f58", "g": "#3fb950", "r": "#f85149"},
+    "light": {"bg": "#ffffff", "border": "#d0d7de", "art": "#57606a", "h": "#0969da",
+              "k": "#953800", "v": "#24292f", "d": "#afb8c1", "g": "#1a7f37", "r": "#cf222e"},
 }
 
 
@@ -227,7 +279,7 @@ def render(mode, stats):
         f'font-family="Consolas, Menlo, monospace" font-size="13px">',
         f'<rect x="0.5" y="0.5" width="839" height="499" rx="10" fill="{p["bg"]}" stroke="{p["border"]}"/>',
     ]
-    for i, line in enumerate(ART.strip("\n").split("\n")):
+    for i, line in enumerate(ART[mode].strip("\n").split("\n")):
         out.append(f'<text x="25" y="{36 + i * ART_STEP}" font-size="{ART_FONT}px" '
                    f'fill="{p["art"]}" xml:space="preserve">{html.escape(line)}</text>')
     for i, segs in enumerate(info_lines(stats)):
@@ -244,7 +296,8 @@ def selfcheck():
     assert age(date(2000, 3, 31), date(2026, 4, 1)) == (26, 0, 1)
     assert age(date(2000, 1, 1), date(2026, 1, 1)) == (26, 0, 0)
     assert len("".join(t for t, _ in kv("OS", "macOS"))) == W
-    assert max(len(l) for l in ART.strip("\n").split("\n")) * ART_FONT * 0.602 + 25 < 385  # art must not hit the info column
+    assert max(len(l) for a in ART.values() for l in a.strip("\n").split("\n")) * ART_FONT * 0.602 + 25 < 385
+    assert ART.keys() == PALETTES.keys()  # art must not hit the info column
 
 
 if __name__ == "__main__":
@@ -254,4 +307,4 @@ if __name__ == "__main__":
     for mode in PALETTES:
         with open(f"{mode}_mode.svg", "w", encoding="utf-8") as f:
             f.write(render(mode, stats))
-    print("wrote dark_mode.svg")
+    print("wrote", ", ".join(f"{m}_mode.svg" for m in PALETTES))

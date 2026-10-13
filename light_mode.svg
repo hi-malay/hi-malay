@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="500" viewBox="0 0 840 500" font-family="Consolas, Menlo, monospace" font-size="13px">
+<rect x="0.5" y="0.5" width="839" height="499" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<text x="25" y="36.0" font-size="10px" fill="#57606a" xml:space="preserve">                       ▒▒▓▒▒▒▒▓▒▓▒▒</text>
+<text x="25" y="45.6" font-size="10px" fill="#57606a" xml:space="preserve">                     ▒▒▓▓▓▓▓█▓▓▓▓▓▓▒</text>
+<text x="25" y="55.2" font-size="10px" fill="#57606a" xml:space="preserve">                    ▒▓▓▓▓█▓█▓▓█▓██▓▓▒▒</text>
+<text x="25" y="64.8" font-size="10px" fill="#57606a" xml:space="preserve">                   ▓▓▓██▓██▓█▓▓▓▓▓▓▓▓▒▒▒</text>
+<text x="25" y="74.4" font-size="10px" fill="#57606a" xml:space="preserve">                 ▓▓▓▓█▓██▓█▓▓█▓▓▓▓▓▓▓▓▓▒▒</text>
+<text x="25" y="84.0" font-size="10px" fill="#57606a" xml:space="preserve">                 ▓▓█▓▓█▓▓▓▓▓▓▓▓▓█▓▓▓▓▓▓▓▒▒</text>
+<text x="25" y="93.6" font-size="10px" fill="#57606a" xml:space="preserve">                ▓▓█▓██▓▒▒░▒▓░░▓▓▓█▓▓▓▓▓▓▓▒</text>
+<text x="25" y="103.2" font-size="10px" fill="#57606a" xml:space="preserve">                 ▓██▓▒▒▒░░░▒░ ░▒▓▓█▓█▓▓▓▓</text>
+<text x="25" y="112.8" font-size="10px" fill="#57606a" xml:space="preserve">                 ▓█▓▒░░    ░░░  ░▒▓█▓▓▓▓▒</text>
+<text x="25" y="122.39999999999999" font-size="10px" fill="#57606a" xml:space="preserve">                 ▓█▒░░▒▒▒▒     ░░ ░▒▒▓█▓</text>
+<text x="25" y="132.0" font-size="10px" fill="#57606a" xml:space="preserve">                  ▓░░▒▒▒▒▓▒░ ░▓▒░░   ▓▓</text>
+<text x="25" y="141.6" font-size="10px" fill="#57606a" xml:space="preserve">               ▓▒▒▓░ ░▒▒░░░  ░░▒▒░░  ▒</text>
+<text x="25" y="151.2" font-size="10px" fill="#57606a" xml:space="preserve">             ▓▓█▓░▒░                 ▒</text>
+<text x="25" y="160.8" font-size="10px" fill="#57606a" xml:space="preserve">            ▓▓███ ░░░   ░░     ░    ░</text>
+<text x="25" y="170.4" font-size="10px" fill="#57606a" xml:space="preserve">            ▓▓███░▒▒▒░▓▒░▓▓▒░▒ ░▒   ░</text>
+<text x="25" y="180.0" font-size="10px" fill="#57606a" xml:space="preserve">             █▓▓███▓▒▒▒▓▓▒▒▒░░▒▒▒░░░▓▓</text>
+<text x="25" y="189.6" font-size="10px" fill="#57606a" xml:space="preserve">            ▓▓██▓██▓▓░░░▒░    ░░░░░▒█▓▒▒</text>
+<text x="25" y="199.2" font-size="10px" fill="#57606a" xml:space="preserve">         ▓▓▓▓█▓██▓██▓▓░ ░░▒░░░   ░▒█▓▓▓▓▓▓▓▓▓▒</text>
+<text x="25" y="208.79999999999998" font-size="10px" fill="#57606a" xml:space="preserve">       ▓▓▓█▓▓▓██▓█▓███▓▒   ░   ░░▒██▓▓▓█▓▓▓▓▓▒▓▒▒</text>
+<text x="25" y="218.4" font-size="10px" fill="#57606a" xml:space="preserve">     ▒▓▓▓▓▓█▓█▓█████████▓▓▒▒░▒▒▒▒▓███▓█▓▓█▓▓▓▓▓▓▒▒</text>
+<text x="25" y="228.0" font-size="10px" fill="#57606a" xml:space="preserve">    ▓▓▓▓▓▓█▓█▓█▓██▓█▓█▓███▓█▓▒▒░░▓██▓█▓█▓▓█▓█▓▓▓▓▒</text>
+<text x="25" y="237.6" font-size="10px" fill="#57606a" xml:space="preserve">   ▓▒▓▓▓▓█▓▓█▓█▓████████▓█▓░░░░░▓███▓█▓██▓▓█▓▓█▓▓▒▒</text>
+<text x="25" y="247.2" font-size="10px" fill="#57606a" xml:space="preserve">  ▒▓▓▓▓█▓▓▓█▓█▓█▓█▓██▓██▓█▓▒▒▒▒▒██▓▓█▓█▓█▓█▓█▓▓▓▓▓▓</text>
+<text x="25" y="256.79999999999995" font-size="10px" fill="#57606a" xml:space="preserve">  ▓▓▓█▓▓█▓█▓█▓█▓█▓█████▓█▓▓▓▒▒▓██▓████▓██▓█▓█▓▓▓▓▓▒</text>
+<text x="25" y="266.4" font-size="10px" fill="#57606a" xml:space="preserve">  ▓▓▓▓█▓█▓█▓███▓███▓██████████████▓█▓██▓██▓█▓█▓█▓▓▓</text>
+<text x="25" y="276.0" font-size="10px" fill="#57606a" xml:space="preserve"> ▓▓▓█▓▓█▓█▓█▓█▓█▓█▓████▓███▓██▓███▓█▓███▓██▓█▓▓▓▓▓▓</text>
+<text x="25" y="285.6" font-size="10px" fill="#57606a" xml:space="preserve"> ▓▓▓▓█▓▓█▓█▓█▓██████▓██▓█████████▓█▓██▓███▓█▓█▓█▓▓▓</text>
+<text x="25" y="295.2" font-size="10px" fill="#57606a" xml:space="preserve">▓▓▓█▓▓██▓█▓█▓██▓█▓███▓███▓████████▓█▓████▓██▓█▓▓▓▓▓</text>
+<text x="25" y="304.8" font-size="10px" fill="#57606a" xml:space="preserve">▓▓▓█▓▓▓▓█▓█▓██████▓███▓█████████▓█▓█████▓█▓█▓▓█▓▓▓▒</text>
+<text x="25" y="314.4" font-size="10px" fill="#57606a" xml:space="preserve">▓▓▓▓█▓█▓▓▓█▓██▓█▓██████▓██████▓█▓████████▓▓▓█▓▓█▓▓▓</text>
+<text x="25" y="324.0" font-size="10px" fill="#57606a" xml:space="preserve">▓██▓▓▓█▓█▓█▓███████▓███▓█▓▓█▓█████▓████▓██▓▓▓█▓▓█▓▓</text>
+<text x="25" y="333.59999999999997" font-size="10px" fill="#57606a" xml:space="preserve">▓▓▓██▓▓▓█▓▓█▓██▓████████▓█████▓██████████████▓▓▓▓▓▓</text>
+<text x="25" y="343.2" font-size="10px" fill="#57606a" xml:space="preserve">█▓█▓▓██▓▓█▓▓█▓███▓█▓▓▓▓███▓█▓██▓▓██▓█▓█▓█▓█▓██▓▓▓▓▓</text>
+<text x="25" y="352.8" font-size="10px" fill="#57606a" xml:space="preserve">▓▓▓█▓█▓██▓██▓█▓▓█▓█▓█▓█▓███▓▓▓▓█▓▓▓█▓▓█▓▓██▓▓█▓█▓▓</text>
+<text x="25" y="362.4" font-size="10px" fill="#57606a" xml:space="preserve">▓█▓▓█▓█▓▓█▓▓████▓███▓█▓█▓▓█▓█▓█▓██▓█▓█▓██▓▓██▓▓▓▓▓</text>
+<text x="25" y="372.0" font-size="10px" fill="#57606a" xml:space="preserve">▓▓█▓█▓█▓█▓▓█▓▓▓████▓██▓██▓██▓█▓▓▓█▓█▓█▓█▓█▓█▓█▓█▓▓</text>
+<text x="25" y="381.59999999999997" font-size="10px" fill="#57606a" xml:space="preserve">▓█▓█▓█▓█▓▓█▓▓█▓▓▓█▓████▓██▓█▓███▓█▓█▓█▓█▓██▓█▓▓▓▓</text>
+<text x="25" y="391.2" font-size="10px" fill="#57606a" xml:space="preserve">▓▓█▓█▓▓█▓█▓█▓█▓█▓▓▓▓▓▓███████▓█▓█▓█▓█▓█▓█▓█▓█▓█▓▓░░</text>
+<text x="25" y="400.8" font-size="10px" fill="#57606a" xml:space="preserve">█▓▓█▓█▓█▓█▓█▓▓█▓▓█▓█▓▓▓▓▓█▓▓██████████▓███▓█▓█▓█░   ░</text>
+<text x="25" y="410.4" font-size="10px" fill="#57606a" xml:space="preserve">▓█▓▓█▓█▓██▓█▓█▓█▓█▓▓█████▓█▓██████████████████▓▒  ░  ░</text>
+<text x="25" y="420.0" font-size="10px" fill="#57606a" xml:space="preserve">█▓██▓███▓█▓█▓█▓█▓██▓█▓█▓█▓█▓█▓████████▓▓▓▓▓▓▓▓▒ ░▓ ▒</text>
+<text x="25" y="429.59999999999997" font-size="10px" fill="#57606a" xml:space="preserve">██▓███▓██████▓███▓███▓█▓██████▓▓▓▓▓▓▒░░░░░▒░░▒░░░ ▓ ▒ ░</text>
+<text x="25" y="439.2" font-size="10px" fill="#57606a" xml:space="preserve">▓██▓████▓█▓████▓███▓████▓▓▓▓▒▒▒░░░░░░░▒▒▓▓▓▓   ▓▓ ░▒ ▒▒</text>
+<text x="25" y="448.8" font-size="10px" fill="#57606a" xml:space="preserve">   ▓▓▓▓▓█▓█▓▓▓▓▓▓▓▓▓▓▓▒▒▓▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓       ▓▓░░▒░▒▒</text>
+<text x="25" y="458.4" font-size="10px" fill="#57606a" xml:space="preserve">     ▓▒▓                                      █▓▒░▒ ▒▒▓</text>
+<text x="390" y="45" xml:space="preserve"><tspan fill="#0969da">hi-malay@github </tspan><tspan fill="#afb8c1">────────────────────────────────────────</tspan></text>
+<text x="390" y="87" xml:space="preserve"><tspan fill="#953800">OS: </tspan><tspan fill="#afb8c1">.............................................. </tspan><tspan fill="#24292f">macOS</tspan></text>
+<text x="390" y="108" xml:space="preserve"><tspan fill="#953800">Uptime: </tspan><tspan fill="#afb8c1">...................... </tspan><tspan fill="#24292f">6 years, 8 months, 6 days</tspan></text>
+<text x="390" y="129" xml:space="preserve"><tspan fill="#953800">Host: </tspan><tspan fill="#afb8c1">............................. </tspan><tspan fill="#24292f">Adeptmind, Bangalore</tspan></text>
+<text x="390" y="150" xml:space="preserve"><tspan fill="#953800">Kernel: </tspan><tspan fill="#afb8c1">....................... </tspan><tspan fill="#24292f">Senior Software Engineer</tspan></text>
+<text x="390" y="171" xml:space="preserve"><tspan fill="#953800">IDE: </tspan><tspan fill="#afb8c1">...................... </tspan><tspan fill="#24292f">Claude Code, Cursor, VS Code</tspan></text>
+<text x="390" y="213" xml:space="preserve"><tspan fill="#953800">Languages.Programming: </tspan><tspan fill="#afb8c1">.......... </tspan><tspan fill="#24292f">TypeScript, Go, Python</tspan></text>
+<text x="390" y="234" xml:space="preserve"><tspan fill="#953800">Languages.Real: </tspan><tspan fill="#afb8c1">......................... </tspan><tspan fill="#24292f">Hindi, English</tspan></text>
+<text x="390" y="255" xml:space="preserve"><tspan fill="#953800">Focus: </tspan><tspan fill="#afb8c1">........... </tspan><tspan fill="#24292f">AI search &amp; discovery, Microfrontends</tspan></text>
+<text x="390" y="297" xml:space="preserve"><tspan fill="#0969da">─ Contact </tspan><tspan fill="#afb8c1">──────────────────────────────────────────────</tspan></text>
+<text x="390" y="318" xml:space="preserve"><tspan fill="#953800">Email: </tspan><tspan fill="#afb8c1">........................... </tspan><tspan fill="#24292f">hi.malay879@gmail.com</tspan></text>
+<text x="390" y="339" xml:space="preserve"><tspan fill="#953800">LinkedIn: </tspan><tspan fill="#afb8c1">.................................... </tspan><tspan fill="#24292f">in/mmalay</tspan></text>
+<text x="390" y="360" xml:space="preserve"><tspan fill="#953800">Portfolio: </tspan><tspan fill="#afb8c1">............................. </tspan><tspan fill="#24292f">malaymishra.com</tspan></text>
+<text x="390" y="402" xml:space="preserve"><tspan fill="#0969da">─ GitHub Stats </tspan><tspan fill="#afb8c1">─────────────────────────────────────────</tspan></text>
+<text x="390" y="423" xml:space="preserve"><tspan fill="#953800">Repos: </tspan><tspan fill="#afb8c1">... </tspan><tspan fill="#24292f">46 {Contributed: 8}</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Stars: </tspan><tspan fill="#afb8c1">.............. </tspan><tspan fill="#24292f">3</tspan></text>
+<text x="390" y="444" xml:space="preserve"><tspan fill="#953800">Commits: </tspan><tspan fill="#afb8c1">............... </tspan><tspan fill="#24292f">3,558</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Followers: </tspan><tspan fill="#afb8c1">.......... </tspan><tspan fill="#24292f">2</tspan></text>
+<text x="390" y="465" xml:space="preserve"><tspan fill="#953800">Lines of Code: </tspan><tspan fill="#24292f">1,505,804</tspan><tspan fill="#afb8c1"> ( </tspan><tspan fill="#1a7f37">1,729,520++</tspan><tspan fill="#afb8c1">, </tspan><tspan fill="#cf222e">223,716--</tspan><tspan fill="#afb8c1"> )</tspan></text>
+</svg>
